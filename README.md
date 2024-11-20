@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+# Staycation
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Description
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Staycation is a web application designed to facilitate local travel and vocationing through the integration of geolocation features. The platform aims to streamline the process of finding local staycation destinations that match preferences as a boost to local tourism, leveraging real-time location data to match users efficiently.
